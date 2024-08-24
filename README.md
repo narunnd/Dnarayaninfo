@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Etabs, SAAp anlysis, Lumion etc.**
+- 🌱 I’m currently learning **Etabs, SAAp analysis, Lumion **
 
-- 🤝 I’m looking for help with **aeronautical**
+  
 
-- 👨‍💻 All of my projects are available at [https://www.dnarayan.com.np/](https://www.dnarayan.com.np/)
+-  All of my projects are available at [https://www.dnarayan.com.np/](https://www.dnarayan.com.np/)
 
 - 📝 I regularly write articles on [https://www.dnarayan.com.np/](https://www.dnarayan.com.np/)
 
-- 💬 Ask me about **especially, any of civil engineering as well as structural engineering**
+- 💬 Ask me about **especially, any of civil engineering as well as structural analysis**
 
-- 📫 How to reach me **2758narayan@gmail.com**
+- 📫 How to reach me **2758narayan@gmail.com or narunnd@yahoo.com**
 
 - ⚡ Fun fact **I think I'm analyzer**
 
